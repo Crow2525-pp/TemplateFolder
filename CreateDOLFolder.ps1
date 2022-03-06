@@ -1,5 +1,5 @@
-$dest = "G:\QBE Shared Information\Prof & Financial Lines\Referrals\DOL"
-$template = "G:\QBE Shared Information\Prof & Financial Lines\Referrals\DOL\__TEMPLATE"
+$dest = "C:\Referrals"
+$template = "C:\Referrals\_Referral Tempalte"
 $Desc = Read-Host "Enter Insured Name, e.g. QBE Australia Pty Ltd"
 $Dest2 = "Analysis & QBE Terms" 
 $Dir = Read-Host "Enter Policy Year, e.g 2021-2022 or 2021-22 (up to you)"
